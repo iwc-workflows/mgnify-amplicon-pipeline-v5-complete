@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-08-03T08:44:47.451579",
+            "datePublished": "2026-08-24T11:25:01.088376",
             "hasPart": [
                 {
                     "@id": "mgnify-amplicon-pipeline-v5-complete.ga"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/mgnify-amplicon-pipeline-v5-complete",
-            "version": "0.5"
+            "version": "0.6"
         },
         {
             "@id": "#galaxy",
@@ -154,7 +154,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.45"
+            "engineVersion": ">=0.75.47"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
