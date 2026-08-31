@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-08-24T11:25:01.088376",
+            "datePublished": "2026-08-31T13:02:38.450449",
             "hasPart": [
                 {
                     "@id": "mgnify-amplicon-pipeline-v5-complete.ga"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/mgnify-amplicon-pipeline-v5-complete",
-            "version": "0.6"
+            "version": "0.7"
         },
         {
             "@id": "#galaxy",
